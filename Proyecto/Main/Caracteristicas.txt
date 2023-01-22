@@ -1,0 +1,11 @@
+Caracteristicas del proyecto
+    Elegir palabras de un banco de palabras:
+        archivo1->Facil
+        archivo2->Dificil
+        archivo3->Extremo
+    Tener un archivo en donde se guarde
+        historial de palabras
+        puntuacion de esa partida
+        usuario que saco esa puntuacion 
+    Tener un contador de intentos
+    La letra que digites aparecera si pertenece a la palabra

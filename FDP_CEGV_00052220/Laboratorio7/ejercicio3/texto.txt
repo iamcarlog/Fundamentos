@@ -1,0 +1,5 @@
+Contador de a: 0
+Contador de e: 1
+Contador de i: 0
+Contador de o: 1
+Contador de u: 0

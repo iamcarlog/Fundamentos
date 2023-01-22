@@ -1,0 +1,10 @@
+perro
+perro
+gato
+Gato
+Persona
+Hueso
+Perro
+
+gato
+

@@ -1,0 +1,16 @@
+Ahorcado
+Reglas:
+    Selecciona un modo de juego:
+        Facil
+        Dificil
+        Extremo
+    Depende el modo de juego tendras distinto numeros de intentos
+        facil: n intentos
+        dificil: n intentos
+        Extremo: n intentos
+    Se debera ingresar letra por letra
+    tu puntuacion sera
+        (numero de letras/numero de intentos)*100
+        la maxima puntuacion sera de 100
+        podras tener varias puntuaciones por el mismo usuario
+    al terminar se te pedira tu nombre para guardar tu puntaje
